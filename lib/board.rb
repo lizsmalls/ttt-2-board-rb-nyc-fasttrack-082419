@@ -1,3 +1,3 @@
 # Define the variable board below.
-board = ["str1", "str2", "3", "4,", "5","6", "7", "8", "9"]
+board = ["str1", "str2", "str3", "str4,", "str5","str6", "str7", "str8", "str9"]
 
